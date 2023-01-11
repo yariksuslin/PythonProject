@@ -11,7 +11,7 @@ df_t = pd.read_csv('https://cf-courses-data.s3.us.cloud-object-storage.appdomain
 
 
 
-#BarChart Top 10 LanguageWorkedWith
+#First Dashboard
 df_top_10_l = df_t['LanguageWorkedWith'].value_counts().to_frame().sort_values(by='LanguageWorkedWith',ascending=False).head(10)
 df_top_10_l.reset_index(inplace=True)
 df_top_10_l.columns = ['Language','Language_count']
@@ -55,6 +55,7 @@ ax[1][1].set_title('TOP 10 WebFrame')
 ax[1][1].legend(bbox_to_anchor=(1.1, 1))
 
 plt.show()
+
 
 
 
