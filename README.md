@@ -10,3 +10,6 @@ Dataset contains 1,000 most popular movies on IMDB in the last 10 years. The dat
 
 
 ### The purpose of this project is to answer several questions about data and get some insights from it.
+Data analysis tasks that were solved : 
+1. First
+2. Second
