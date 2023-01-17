@@ -30,4 +30,4 @@ Dataset contains 1,000 most popular movies on IMDB in the last 10 years. The dat
 17. Count number of Action movies
 18. Find unique values from Genre column
 
-#### The exact explanation of the solution is [here]https://github.com/yariksuslin/PythonProject/blob/main/IMDbDataAnalysisProject.ipynb
+#### The exact explanation of the solution is [here](https://github.com/yariksuslin/PythonProject/blob/main/IMDbDataAnalysisProject.ipynb)
